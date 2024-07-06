@@ -18,9 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
-  <image height="200" width="300" href="laravel.jpg" />
-</svg>
 
 
 <div align="center">
