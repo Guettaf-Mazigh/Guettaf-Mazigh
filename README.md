@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-https://imgur.com/gallery/laravel-icon-b0Lw5Rh
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/b0Lw5Rh"  ><a href="//imgur.com/a/b0Lw5Rh">Laravel Icon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guettaf-Mazigh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
