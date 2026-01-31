@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 
 <h2 align="left">I code with</h2>
 
