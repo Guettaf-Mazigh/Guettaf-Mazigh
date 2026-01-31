@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since while(true).<br>📚 I'm currently learning JavaScript, REST APIs.<br>🎯 Goals: Improve my backend development skills.<br>🎲 Fun fact: I enjoy solving bugs more than writing new code.</p>
+<p align="left"><br>📚 I'm currently learning JavaScript, REST APIs.</p>
 
 ###
 
